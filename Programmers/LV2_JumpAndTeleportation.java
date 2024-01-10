@@ -3,6 +3,7 @@ import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.Scanner;
 import java.lang.Math;
+import error.IncorrectSolutionException;
 
 public class LV2_JumpAndTeleportation {
     public static void main(String args[]){

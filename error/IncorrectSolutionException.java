@@ -1,3 +1,5 @@
+package error;
+
 import java.lang.RuntimeException;
 
 public class IncorrectSolutionException extends RuntimeException {
