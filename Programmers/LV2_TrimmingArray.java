@@ -28,7 +28,7 @@ public class LV2_TrimmingArray {
                 }
 
                 int[] myAnswer = solution(n, left, right);
-                if(Objects.equals(myAnswer, result)) {scanner.close(); throw new IncorrectSolutionException(myAnswer, result);}
+                if(!Objects.equals(myAnswer, result)) {scanner.close(); throw new IncorrectSolutionException(myAnswer, result);}
             }
             scanner.close();
             System.out.println("통과!");
