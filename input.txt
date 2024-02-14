@@ -1,2 +1,6 @@
-[["yellow_hat","headgear"],["blue_sunglasses","eyewear"],["green_turban","headgear"]] 5
-[["crow_mask","face"],["blue_sunglasses","face"],["smoky_makeup","face"]] 3
+3 [Jeju,Pangyo,Seoul,NewYork,LA,Jeju,Pangyo,Seoul,NewYork,LA] 50
+3 [Jeju,Pangyo,Seoul,Jeju,Pangyo,Seoul,Jeju,Pangyo,Seoul] 21
+2 [Jeju,Pangyo,Seoul,NewYork,LA,SanFrancisco,Seoul,Rome,Paris,Jeju,NewYork,Rome] 60
+5 [Jeju,Pangyo,Seoul,NewYork,LA,SanFrancisco,Seoul,Rome,Paris,Jeju,NewYork,Rome] 52
+2 [Jeju,Pangyo,NewYork,newyork] 16
+0 [Jeju,Pangyo,Seoul,NewYork,LA] 25
