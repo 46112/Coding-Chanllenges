@@ -24,6 +24,8 @@ public class IncorrectSolutionException extends RuntimeException {
     private static String toString(Object obj) {
         if (obj == null) {
             return "null";
+        } else if (obj instanceof int[]) {
+            return Arrays.toString((int[]) obj);
         } else if (obj.getClass().isArray()) {
             return Arrays.deepToString((Object[]) obj);
         } else {
