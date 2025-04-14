@@ -71,4 +71,4 @@
 
 - name: "Type: Change Request"
   color: "8e8e93" # 중립적인 다크그레이
-  description: "변경 요청됨 또는 수정 필요"
+  description: "변경 요청 또는 수정 필요"
