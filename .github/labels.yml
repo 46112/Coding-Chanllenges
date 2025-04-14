@@ -1,0 +1,74 @@
+# Priority
+- name: "Priority: High"
+  color: "ff3b30" # 강한 레드 (긴급)
+  description: "우선순위 높음"
+
+- name: "Priority: Medium"
+  color: "ff9500" # 진한 오렌지
+  description: "우선순위 중간"
+
+- name: "Priority: Low"
+  color: "34c759" # 맑은 초록
+  description: "우선순위 낮음"
+
+# Status
+- name: "Status: Todo"
+  color: "007aff" # 진한 파랑
+  description: "할 일"
+
+- name: "Status: In Progress"
+  color: "5e5ce6" # 보라색
+  description: "진행 중"
+
+- name: "Status: Done"
+  color: "30d158" # 완성된 느낌의 초록
+  description: "진행 완료"
+
+- name: "Status: No Status"
+  color: "d1d1d6" # 흐릿한 회색
+  description: "상태 미지정"
+
+# Type
+- name: "Type: Feature"
+  color: "0a84ff" # 밝은 블루
+  description: "새로운 기능 추가"
+
+- name: "Type: Bug"
+  color: "ff375f" # 에러 느낌의 핑크레드
+  description: "버그"
+
+- name: "Type: Chore"
+  color: "ac8e68" # 베이지 브라운
+  description: "기타 등등"
+
+- name: "Type: Configuration"
+  color: "ffd60a" # 설정 느낌의 노랑
+  description: "설정"
+
+- name: "Type: Documentation"
+  color: "64d2ff" # 맑은 하늘색
+  description: "문서 작업"
+
+- name: "Type: Performance"
+  color: "bf5af2" # 퍼포먼스 개선 느낌의 진한 보라
+  description: "성능 개선"
+
+- name: "Type: Question"
+  color: "ffcc00" # 눈에 띄는 밝은 노랑
+  description: "질문"
+
+- name: "Type: Refactoring"
+  color: "32ade6" # 리팩터링 느낌의 청록
+  description: "리팩토링"
+
+- name: "Type: Style"
+  color: "f2f2f7" # 거의 흰색에 가까운 회색
+  description: "스타일 변경, 코드 변경이 없는 경우"
+
+- name: "Type: Test"
+  color: "ff9f0a" # 테스트 느낌의 오렌지
+  description: "테스트"
+
+- name: "Type: Change Request"
+  color: "8e8e93" # 중립적인 다크그레이
+  description: "변경 요청됨 또는 수정 필요"
